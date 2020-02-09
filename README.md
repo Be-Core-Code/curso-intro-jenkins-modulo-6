@@ -1,4 +1,4 @@
-# Diapositivas del Curso de Introducción a Jenkins - Módulo 4: Gestión de usuarios y credenciales
+# Diapositivas del Curso de Introducción a Jenkins - Módulo 5: Pipelines
 
 ## Índice
 

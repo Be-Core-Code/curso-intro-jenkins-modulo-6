@@ -4,7 +4,9 @@
 
 * [¿Qué es un `Pipeline`?](/#what_is_a_pipeline)
 * [Primeros pasos y documentación integrada](/#getting_started)
-* []()
+* [Usando `Jenkinsfile` desde un repositorio](/#jenkinsfile)
+* ...
+* [Blue Ocean Plugin](/#blue_ocean) 
 
 notes:
 
