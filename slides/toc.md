@@ -7,6 +7,7 @@
 * [Usando `Jenkinsfile` desde un repositorio](/#jenkinsfile_in_scm)
 * [Trabajando con nuestro `Jenkinsfile`](/#working_with_your_jenkinsfile)
 * [Multi-Branch Pipelines](/#multibranch_pipelines)
+* [Shared Libraries](/#shared_libraries)
 * [Blue Ocean Plugin](/#blue_ocean) 
 
 notes:
