@@ -2,6 +2,14 @@
 
 ## Índice
 
+* ¿Qué es un Pipeline?
+* Primeros pasos y documentación integrada
+* Usando Jenkinsfile desde un repositorio
+* Trabajando con nuestro Jenkinsfile
+* Multi-Branch Pipelines
+* Shared Libraries
+* Herramientas
+
 ## Visualización
 
 Para ver las diapositivas:
