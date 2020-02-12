@@ -9,7 +9,6 @@
 * [Multi-Branch Pipelines](/#multibranch_pipelines)
 * [Shared Libraries](/#shared_libraries)
 * [Herramientas](/#development_tools)
-* [Blue Ocean Plugin](/#blue_ocean) 
 
 notes:
 
