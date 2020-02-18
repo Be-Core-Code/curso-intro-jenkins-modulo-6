@@ -120,6 +120,8 @@ Documentación de las variables que los diferentes plugins
 exponen en un `Pipeline` y que podemos utilizar dentro del
 `Jenkinsfile`
 
+^^^^^^
+
 #### 💻️ Primeros pasos: Documentación integrada
 
 * Añadir el parámetro NAME al `Pipeline`
